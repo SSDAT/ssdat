@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
@@ -27,9 +26,9 @@
       <label>CONTACT NO.</label>
       <input type="text" name="" value=""><br>
       <br>
+      <input type="submit" name="" 
 
 
 
   </body>
 </html>
-
