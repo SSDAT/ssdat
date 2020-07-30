@@ -1,16 +1,35 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h1>SRI SAI DIABETES AND THYROID CENTER</h1>
 
-<!--
-**SSDAT/ssdat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <h1>CLINIC TIMINGS (10 AM-1 PM)</h1>
+    <br>
 
-Here are some ideas to get you started:
+    <p>CONTACT DETAILS</p><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+    <form class="" action="index.html" method="post">
+      <label> Name</label>
+      <input type="text" name="" value="">
+      <br>
+      <br>
+
+      <label>APPOINTMENT DATE AND DATE</label>
+      <input type="datetime-local" name="" value=""><br>
+      <br>
+
+      <label>CONTACT NO.</label>
+      <input type="text" name="" value=""><br>
+      <br>
+
+
+
+  </body>
+</html>
+
